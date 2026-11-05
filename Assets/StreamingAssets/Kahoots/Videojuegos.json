@@ -1,0 +1,118 @@
+{
+    "id": "kahoot_videojuegos_001",
+    "titulo": "Cultura general de videojuegos",
+    "fechaCreacion": "2026-11-05 00:00:00",
+    "preguntas": [
+        {
+            "enunciado": "¿Qué empresa desarrolló la saga The Legend of Zelda?",
+            "respuestas": [
+                "Nintendo",
+                "Sony",
+                "SEGA",
+                "Microsoft"
+            ],
+            "indiceRespuestaCorrecta": 0,
+            "duracion": 20
+        },
+        {
+            "enunciado": "¿Cómo se llama el protagonista de la saga Halo?",
+            "respuestas": [
+                "Marcus Fenix",
+                "Master Chief",
+                "Kratos",
+                "Doom Slayer"
+            ],
+            "indiceRespuestaCorrecta": 1,
+            "duracion": 20
+        },
+        {
+            "enunciado": "¿En qué videojuego aparece el mundo llamado Minecraft?",
+            "respuestas": [
+                "Terraria",
+                "Roblox",
+                "Minecraft",
+                "Stardew Valley"
+            ],
+            "indiceRespuestaCorrecta": 2,
+            "duracion": 20
+        },
+        {
+            "enunciado": "¿Qué estudio creó The Witcher 3: Wild Hunt?",
+            "respuestas": [
+                "CD Projekt Red",
+                "Naughty Dog",
+                "Rockstar Games",
+                "Valve"
+            ],
+            "indiceRespuestaCorrecta": 0,
+            "duracion": 25
+        },
+        {
+            "enunciado": "¿Cuál es la habilidad característica de Kirby?",
+            "respuestas": [
+                "Volar con alas",
+                "Copiar habilidades al absorber enemigos",
+                "Construir objetos",
+                "Viajar en el tiempo"
+            ],
+            "indiceRespuestaCorrecta": 1,
+            "duracion": 20
+        },
+        {
+            "enunciado": "¿Qué compañía desarrolló la saga Sonic the Hedgehog?",
+            "respuestas": [
+                "Capcom",
+                "SEGA",
+                "Bandai Namco",
+                "Ubisoft"
+            ],
+            "indiceRespuestaCorrecta": 1,
+            "duracion": 20
+        },
+        {
+            "enunciado": "¿En qué género se suele clasificar Dark Souls?",
+            "respuestas": [
+                "Carreras",
+                "Deportes",
+                "Action RPG",
+                "Simulación"
+            ],
+            "indiceRespuestaCorrecta": 2,
+            "duracion": 20
+        },
+        {
+            "enunciado": "¿Qué personaje es la mascota más conocida de PlayStation?",
+            "respuestas": [
+                "Crash Bandicoot",
+                "Mario",
+                "Sackboy",
+                "Pikachu"
+            ],
+            "indiceRespuestaCorrecta": 0,
+            "duracion": 20
+        },
+        {
+            "enunciado": "¿Qué significa normalmente la sigla NPC?",
+            "respuestas": [
+                "New Player Challenge",
+                "Non-Playable Character",
+                "Network Play Controller",
+                "Next Platform Console"
+            ],
+            "indiceRespuestaCorrecta": 1,
+            "duracion": 20
+        },
+        {
+            "enunciado": "¿Qué videojuego popularizó el modo Battle Royale a gran escala en 2017?",
+            "respuestas": [
+                "Fortnite Battle Royale",
+                "Overwatch",
+                "Portal 2",
+                "Fish"
+            ],
+            "indiceRespuestaCorrecta": 0,
+            "duracion": 25
+        }
+    ],
+    "resultados": []
+}
