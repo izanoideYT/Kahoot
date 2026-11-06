@@ -199,6 +199,7 @@ MonoBehaviour:
             m_StringArgument: Juego
             m_BoolArgument: 0
           m_CallState: 2
+    esSlotVacio: 0
   - nombre: LeaderBoard
     imagen: {fileID: 21300000, guid: 6be8801d34883d547b55270975e8960e, type: 3}
     accion:
@@ -216,23 +217,7 @@ MonoBehaviour:
             m_StringArgument: Leaderboard
             m_BoolArgument: 0
           m_CallState: 2
-  - nombre: Opciones
-    imagen: {fileID: 21300000, guid: 6be8801d34883d547b55270975e8960e, type: 3}
-    accion:
-      m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 1011229410}
-          m_TargetAssemblyTypeName: ButtonController, Assembly-CSharp
-          m_MethodName: Escena
-          m_Mode: 5
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: Options
-            m_BoolArgument: 0
-          m_CallState: 2
+    esSlotVacio: 0
   - nombre: Salir
     imagen: {fileID: 21300000, guid: 6be8801d34883d547b55270975e8960e, type: 3}
     accion:
@@ -250,6 +235,7 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
+    esSlotVacio: 0
   radio: 10
   angularSpacing: 25
   velocidadSuave: 5
